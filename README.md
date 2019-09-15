@@ -2,4 +2,4 @@
 
 This is the 3rd project in the course of Deep Learning at Udacity
 
-The project implemented RNN/LSTM to generate a new TV script by learning from script data
+The project implemented **RNN/LSTM** using **Pytorch** to generate a new TV script by learning from script data
