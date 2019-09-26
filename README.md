@@ -9,8 +9,11 @@ This is the 3nd project for the **Deep Learning** Nanodegree program at [Udacity
 
 The project defined and trained a **RNN/LSTM** using **Pytorch** to generate a new TV script by learning from script data.
 
-Here is the project file [Neural_Network_Prediction.ipynb](Neural_Network_Prediction.ipynb)   
+Here is the project file [TV_Script_Generation-zh.ipynb](TV_Script_Generation-zh.ipynb)   
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
+
+* RNN  - Recurrent Neural Network  
+* LSTM - Long Short-Term Memory, a special RNN to help resolve the problem of gradient vanishing
 
 ---
 #### Example output 
