@@ -1,5 +1,5 @@
-# 深度学习 (纳米学位）- 项目3  - 生成电视剧本（循环神经网络)
-# DeepLearning ND - Project3 - TV_Script_Generation (RNN/LSTM  Pytorch)  
+# 深度学习 (纳米学位）- 项目3  - 生成电视剧本(循环神经网络）
+# DeepLearning ND - Project3 - TV_Script_Generation (RNN/LSTM)  
 
 [//]: # (Image References)
 [image1]: ./example1.png
